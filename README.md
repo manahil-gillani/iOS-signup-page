@@ -27,7 +27,7 @@ The Registration Form App is a simple iOS application developed in Swift using U
 - **Login:** Click the "Login" button to navigate to the login screen (to be implemented).
 
 ## Contributing
-Contributions are welcome! Please feel free to submit a Pull Request or open an issue to discuss any changes.
+Contributions are welcome! Please feel free to submit a Pull Request or open an issue to discuss any changes. Doleave comments
 
 ## Acknowledgements
 - Developed by Syeda Manahil Fatima.
